@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.2.0](https://github.com/GersonRS/example-guto/compare/v0.1.0...v0.2.0) (2024-12-19)
+
+
+### 🚀 New Features
+
+* add numpy lib ([99caa99](https://github.com/GersonRS/example-guto/commit/99caa994c9e64e251546a1337850876817837736))
+
 ## [0.1.0](https://github.com/GersonRS/example-guto/compare/v0.0.3...v0.1.0) (2024-12-19)
 
 
